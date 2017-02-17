@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MobaCup</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="all_images">
+        <item>@drawable/a1</item>
+        <item>@drawable/a2</item>
+        <item>@drawable/a3</item>
+        <item>@drawable/a4</item>
+        <item>@drawable/a5</item>
+        <item>@drawable/a6</item>
+        <item>@drawable/a7</item>
+        <item>@drawable/a8</item>
+        <item>@drawable/a9</item>
+        <item>@drawable/a10</item>
+        <item>@drawable/a11</item>
+    </string-array>
+
+    <string-array name="all_contacts">
+        <item>Bima Perkasa Jogja</item>
+        <item>CLS KNIGHTS SURABAYA</item>
+        <item>Bank BJB Garuda Bandung</item>
+        <item>Hangtuah Sumsel</item>
+        <item>JNE Siliwangi Bandung</item>
+        <item>NSH Jakarta</item>
+        <item>Pacific Caesar Surabaya</item>
+        <item>Pelita Jaya</item>
+        <item>Satria Muda Pertamina Jakarta</item>
+        <item>Satya Wacana Salatiga</item>
+        <item>W88.News Aspac Jakarta</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\MOKLET\XI\PPB\Project\FRAGMENT\tabs\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="18f37a512a2b8135cae5cee8a57b0e6c8db4aed8">
+        <dex dex="E:\MOKLET\XI\PPB\Project\FRAGMENT\tabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_fdebfecd7f51ebb74cb700ccf10a69225fa95e9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\MOKLET\XI\PPB\Project\FRAGMENT\JOS\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="E:\MOKLET\XI\PPB\Project\FRAGMENT\JOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_ee8ae507b3d9b7325733c1070a731b29c65832d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\MOKLET\XI\PPB\Project\FRAGMENT\JOS\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="E:\MOKLET\XI\PPB\Project\FRAGMENT\JOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_67b711be5fc274df725e10b56ede37c76ea581f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\MOKLET\XI\PPB\Project\FRAGMENT\tabs\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="E:\MOKLET\XI\PPB\Project\FRAGMENT\tabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_e988a5346c79ab81610c1a4408a5eedf47f2da28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\MOKLET\XI\PPB\Project\FRAGMENT\JOS\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="E:\MOKLET\XI\PPB\Project\FRAGMENT\JOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_41583c8009d1b5e315c2e89244a76842f8921d27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\MOKLET\XI\PPB\Project\FRAGMENT\JOS\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="adad19e6206619eeacde8e39a78e8160157f43e3">
+        <dex dex="E:\MOKLET\XI\PPB\Project\FRAGMENT\JOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_08fb1430ed4d63e31119318818288596603fac53\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\MOKLET\XI\PPB\Project\FRAGMENT\tabs\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c6c1ca825ac64b74c493f948398ea4058245008">
+        <dex dex="E:\MOKLET\XI\PPB\Project\FRAGMENT\tabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_608231268d5eb3c5fcc63c3f253f81873514972d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\MOKLET\XI\PPB\Project\FRAGMENT\tabs\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="E:\MOKLET\XI\PPB\Project\FRAGMENT\tabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_d6b0515553638811a0501d04216b373821702720\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\MOKLET\XI\PPB\Project\FRAGMENT\tabs\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="E:\MOKLET\XI\PPB\Project\FRAGMENT\tabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_371f22a1d7494bc7b18cb3fe94d37752aece8419\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\MOKLET\XI\PPB\Project\FRAGMENT\JOS\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d45f1fdbe9e7236dc5ebe187a9ee98c37804ae6b">
+        <dex dex="E:\MOKLET\XI\PPB\Project\FRAGMENT\JOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_077686ba071a580db48c7bbf691a6bb7a439cbc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\MOKLET\XI\PPB\Project\FRAGMENT\tabs\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="E:\MOKLET\XI\PPB\Project\FRAGMENT\tabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_7ade7d82fbd88bc996bebee25c5fbf0089645e1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\MOKLET\XI\PPB\Paket\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="E:\MOKLET\XI\PPB\Project\FRAGMENT\tabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_16a845b5dcf4d3a43e92e55bb6a92dcba2f1d864\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\MOKLET\XI\PPB\Project\FRAGMENT\tabs\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="E:\MOKLET\XI\PPB\Project\FRAGMENT\tabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_ca20b611549ab3452bacea5d65cd18ea720748e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\MOKLET\XI\PPB\Project\FRAGMENT\JOS\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="E:\MOKLET\XI\PPB\Project\FRAGMENT\JOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_8ebb88a0c437ec312bd878381ac53cb6f7f0e918\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\MOKLET\XI\PPB\Project\FRAGMENT\JOS\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="E:\MOKLET\XI\PPB\Project\FRAGMENT\JOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_dc5e6a6321175c04187bc2667229ebffc5f721a7\classes.dex" />
+    </item>
+
+</items>
